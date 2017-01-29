@@ -14,4 +14,8 @@ export default defineMessages({
     id: 'boilerplate.components.Header.features',
     defaultMessage: 'Features',
   },
+  collections: {
+    id: 'yoga.components.Header.collections',
+    defaultMessage: 'Collections',
+  },
 });
